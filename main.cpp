@@ -354,7 +354,7 @@ int main(int argc, char** argv) {
 
         // Delay to limit the frame rate
         SDL_Delay(1000 / 60);
-        saveBMP("space_object.bmp");
+
     }
 
     SDL_DestroyRenderer(renderer);
