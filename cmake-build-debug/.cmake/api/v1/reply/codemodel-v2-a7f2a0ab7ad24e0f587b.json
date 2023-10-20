@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Flat_Shading_GraficaComputador",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Flat_Shading_GraficaComputador::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Flat_Shading_GraficaComputador-Debug-a45ab0ffbf004074da9d.json",
+					"name" : "Flat_Shading_GraficaComputador",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rodas/Desktop/CODING11/Repoitorios_GIT/Flat_Shading_GraficaComputador/cmake-build-debug",
+		"source" : "C:/Users/rodas/Desktop/CODING11/Repoitorios_GIT/Flat_Shading_GraficaComputador"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
